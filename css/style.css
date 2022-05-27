@@ -6,8 +6,9 @@ html {
 header {
   display: flex;
   justify-content: flex-start;
-  padding-left: 12.5%;
+  padding-top: 10px;
   padding-bottom: 1%;
+  padding-left: 12.5%;
   margin-bottom: 25px;
   background: rgb(87, 85, 85);
 }
